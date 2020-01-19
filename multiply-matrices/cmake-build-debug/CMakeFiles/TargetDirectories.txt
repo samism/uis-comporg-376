@@ -1,0 +1,3 @@
+/Users/sam.ismail/CLionProjects/uis-comporg-376/multiply-matrices/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sam.ismail/CLionProjects/uis-comporg-376/multiply-matrices/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sam.ismail/CLionProjects/uis-comporg-376/multiply-matrices/cmake-build-debug/CMakeFiles/multiply_matrices.dir
